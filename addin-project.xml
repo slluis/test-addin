@@ -1,0 +1,12 @@
+<AddinProject appVersion="2.4">
+        <Project platforms="Mac Linux">
+                <BuildFile>SimpleAddin.sln</BuildFile>
+                <BuildConfiguration>Debug</BuildConfiguration>
+                <AddinFile>SimpleAddin/bin/Debug/SimpleAddin.dll</AddinFile>
+        </Project>
+        <Project platforms="Win32">
+                <BuildFile>SimpleAddin.sln</BuildFile>
+                <BuildConfiguration>DebugWin32</BuildConfiguration>
+                <AddinFile>SimpleAddin/bin/DebugWin32/SimpleAddin.dll</AddinFile>
+        </Project>
+</AddinProject>
