@@ -1,4 +1,4 @@
-<AddinProject appVersion="2.4"> <!-- test12 -->
+<AddinProject appVersion="2.4"> <!-- test123 -->
 	<Project platforms="Mac Linux">
 		<BuildFile>SimpleAddin.sln</BuildFile>
 		<BuildConfiguration>Debug</BuildConfiguration>
