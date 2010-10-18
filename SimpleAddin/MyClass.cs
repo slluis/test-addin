@@ -7,7 +7,7 @@ using Mono.Addins;
 
 namespace SimpleAddin
 {
-	public class MyClass  // 1234567890
+	public class MyClass  // 12345678901
 	{
 		public MyClass ()
 		{
