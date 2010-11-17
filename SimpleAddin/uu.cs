@@ -24,7 +24,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 using System;
-namespace SimpleAddin // 1234
+namespace SimpleAddin // 12345
 {
 	public class uu
 	{
