@@ -4,7 +4,7 @@ namespace SimpleAddin
 {
 	public class noc
 	{
-		public noc ()
+		public noc () // a
 		{
 		}
 	}
