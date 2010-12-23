@@ -1,7 +1,7 @@
 using System;
 using Mono.Addins;
 
-[assembly:Addin ("TestSimpleAddin", Version="1.5")]
+[assembly:Addin ("TestSimpleAddin", Version="2.4")]
 [assembly:AddinDependency ("MonoDevelop.Core","2.4")]
 [assembly:AddinDependency ("MonoDevelop.Ide","2.4")]
 
