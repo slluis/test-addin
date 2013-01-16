@@ -1,0 +1,3 @@
+[submodule "gt"]
+	path = gt
+	url = git@github.com:slluis/gui-thread-check
